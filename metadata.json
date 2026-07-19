@@ -1,0 +1,11 @@
+{
+  "name": "Remix: Career Launch",
+  "description": "An interactive prep platform for fresh graduates featuring AI Mock Interviews, a custom Interview Question Generator, and professional interview success stories and advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
